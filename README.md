@@ -2,6 +2,15 @@
 
 <br />
 
+<div align="center"><strong>React learning</strong></div>
+<div align="center">빠른 리액트 학습을 위한 소스로 react-boilerplate를 선택하여 학습을 진행합니다.</div>
+
+<br />
+
+<div align="center">--- Based - react-boilerplate ---</div>
+
+<br />
+
 <div align="center"><strong>Start your next react project in seconds</strong></div>
 <div align="center">A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices</div>
 
